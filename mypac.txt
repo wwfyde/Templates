@@ -1,0 +1,30 @@
+[SwitchyOmega Conditions]
+@with result
+
+*.lagou.com +direct
+*.tianyancha.com +direct
+*.amap.com +direct
+*.imooc.com +direct
+*.taobao.com +direct
+*.pixiv.net +direct
+*.88cto.com +direct
+*.mtywcloud.com +direct
+*.zhipin.com +direct
+*.tomtaw.com.cn +direct
+*.leetcode-cn.com +direct
+*.zhibo8.cc +direct
+*.qq.com +direct
+*.163.com +direct
+*.jianpeicn.com +direct
+*.infoq.cn +direct
+*.microsoft.com +direct
+*.52pojie.cn +direct
+*.osgeo.cn +direct
+*.kanzhun.com +direct
+*.csdn.net +direct
+*.tuicool.com +direct
+*.baidu.com +direct
+*.dvedit.cn +direct
+*.woshipm.com +direct
+
+* +v2ray
